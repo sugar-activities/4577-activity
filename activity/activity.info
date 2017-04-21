@@ -1,0 +1,7 @@
+[Activity]
+name = HorseGame 
+activity_version = 4
+bundle_id = org.laptop.community.HorseGame
+icon = activity
+exec = sugar-activity activity.Activity
+license = GPLv3+

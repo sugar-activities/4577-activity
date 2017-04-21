@@ -1,0 +1,16 @@
+helpbutton.py
+horse.py
+activity.py
+setup.py
+po/HorseGame.pot
+sugargame/canvas.py
+sugargame/event.py
+sugargame/__init__.py
+icons/help-icon.svg
+icons/apple.svg
+icons/hay.svg
+icons/carrot.svg
+images/grass.png
+images/horse.png
+activity/activity.svg
+activity/activity.info
